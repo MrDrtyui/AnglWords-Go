@@ -1,0 +1,4 @@
+env: "dev"
+
+api:
+  host: "localhost:9000"

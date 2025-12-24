@@ -8,4 +8,4 @@ jwt:
   accessTtlHours: 1h
   refreshTtlHours: 720h
 gemini:
-  api-key: "AIzaSyDj2QCLqymFzX1ijG42e49YpAARIdSxstQ"
+  api-key: "AIzaSyDmcEtcu7CO7E4YWbXnHlxmRXYAlZwPkYU"
